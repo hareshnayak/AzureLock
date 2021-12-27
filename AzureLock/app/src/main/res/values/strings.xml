@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Azure Lock</string>
+    <string name="lockStateOpen">Lock Is Open</string>
+    <string name="lockStateLock">Lock Is Locked</string>
+    <string name="buttonPress2Lock">Lock to safety</string>
+    <string name="buttonPress2Unlock">Unlock</string>
+    <string name="imagelockstate">ImageLockState</string>
+</resources>
